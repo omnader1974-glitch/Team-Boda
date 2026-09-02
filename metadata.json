@@ -1,0 +1,8 @@
+{
+  "name": "Remix TOONHUB - 3D Character Figurines",
+  "description": "Coach Boda interactive 3D character figurine carousel hero section featuring smooth transitions and dynamic color palettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
